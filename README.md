@@ -18,11 +18,11 @@ Synchronized file management system is implmented which includes file management
  
 ### Usage:
 In order to run the code:
-  • open command prompt.
-  • Navigate to the folder containing the client.py and server.py files.
-  • Type python3 server.py.
-  • The server will start running and will wait for the client to connect and send request.
-  • Then open new command prompt window.
-  • Type python3 client.py.
-  • The client will start running.
-  • It will ask for further inputs via prompt messages and generate outputs accordingly.
+  1. Open command prompt.
+  2. Navigate to the folder containing the client.py and server.py files.
+  3. Type python3 server.py.
+  4. The server will start running and will wait for the client to connect and send request.
+  5. Then open new command prompt window.
+  6. Type python3 client.py.
+  7. The client will start running.
+  8. It will ask for further inputs via prompt messages and generate outputs accordingly.
